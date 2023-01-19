@@ -6,16 +6,14 @@ function App() {
         <div className={styles.App}>
             <header className={styles['App-header']}>
                 <img src={logo} className={styles['App-logo']} alt="logo" />
-                <p>
-                    Edit <code>src/App.tsx</code> and save to reload.
-                </p>
+                <p>Hello World.</p>
                 <a
                     className={styles['App-link']}
                     href="https://reactjs.org"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn React
+                    Learn React Now!{' '}
                 </a>
             </header>
         </div>
