@@ -13,7 +13,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn React Now!{' '}
+                    The Link to React Docs{' '}
                 </a>
             </header>
         </div>
