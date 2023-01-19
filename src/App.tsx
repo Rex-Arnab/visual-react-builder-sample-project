@@ -1,5 +1,6 @@
 import logo from './assets/logo.svg';
 import styles from './App.module.scss';
+import { Header } from './components/header/header';
 
 function App() {
     return (
@@ -7,6 +8,7 @@ function App() {
             <header className={styles['App-header']}>
                 <img src={logo} className={styles['App-logo']} alt="logo" />
                 <p>Hello World.</p>
+                <Header />
                 <a
                     className={styles['App-link']}
                     href="https://reactjs.org"
