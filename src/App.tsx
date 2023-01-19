@@ -7,7 +7,7 @@ function App() {
         <div className={styles.App}>
             <header className={styles['App-header']}>
                 <img src={logo} className={styles['App-logo']} alt="logo" />
-                <p>Hello World.</p>
+                <p>Hello Asadsdsads</p>
                 <Header />
                 <a
                     className={styles['App-link']}
